@@ -1,0 +1,1 @@
+hello scan.c
